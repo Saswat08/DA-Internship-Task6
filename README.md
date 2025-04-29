@@ -2,7 +2,7 @@
 
 ## Sales Trend Analysis Using Aggregations
 
-Objective:
+## Objective
 
 Extract and display month from the date column.
 
@@ -20,6 +20,7 @@ List all distinct product lines.
 
 Find the top 3 product lines by total revenue.
 
-Tools:
+## Tools
+
 MySQL, Ms Excel
 
