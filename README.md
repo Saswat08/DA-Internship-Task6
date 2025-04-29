@@ -22,5 +22,5 @@ Find the top 3 product lines by total revenue.
 
 ## Tools
 
-MySQL, Ms Excel
+MySQL Workbench, Ms Excel
 
